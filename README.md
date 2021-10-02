@@ -6,6 +6,11 @@
 
 </div>
 
+## Projects
+
+Currently working on my new website, using the Bulma CSS Framework. It will be hosted on Github Page to replace the current one (link below).
+
+
 ## Socials
 
 <div align="center">

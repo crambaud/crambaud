@@ -9,7 +9,6 @@
 ## Projects
 
 Currently working on my new website, using the Bulma CSS Framework. It will be hosted on Github Page to replace the current one (link below).
-Also, I'm learning Rust at the moment.
 
 ## Socials
 

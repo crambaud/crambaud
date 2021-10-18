@@ -8,7 +8,7 @@
 
 ## Projects
 
-Currently working on my new website, using the Bulma CSS Framework. It will be hosted on Github Page to replace the current one (link below).
+Currently working on my new website. It will be hosted on Github Page to replace the current one (link below).
 
 ## Socials
 
